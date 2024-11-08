@@ -8,30 +8,30 @@ const Land = () => {
               src="src/assets/Services (1).png"
               id="one"
               alt=""
-              className="w-200 "
+               className="w-200 animate-lePeek "
             />
-            <h1 className="font-medium">FREE AND FAST DELIVERY</h1>
-            <p>Free delivery for all orders over $140</p>
+               <h1 className="font-medium animate-lePeek ">FREE AND FAST DELIVERY</h1>
+               <p className=" animate-lePeek ">Free delivery for all orders over $140</p>
           </div>
-          <div className="flex flex-col items-center">
-            <img
+          <div className="flex flex-col items-center ">
+            <img 
               src="src/assets/Services (2).png"
               id="one"
               alt=""
-              className="w-200"
+              className="w-200 animate-lePeek"
             />
-            <h1 className="font-medium">FREE AND FAST DELIVERY</h1>
-            <p>Free delivery for all orders over $140</p>
+               <h1 className="font-medium animate-lePeek ">FREE AND FAST DELIVERY</h1>
+               <p className=" animate-lePeek ">Free delivery for all orders over $140</p>
           </div>
           <div className="flex flex-col items-center">
             <img
               src="src/assets/Services.png"
               id="one"
               alt=""
-              className="w-200"
+            className="w-200 animate-lePeek"
             />
-            <h1 className="font-medium">FREE AND FAST DELIVERY</h1>
-            <p>Free delivery for all orders over $140</p>
+            <h1 className="font-medium animate-lePeek ">FREE AND FAST DELIVERY</h1>
+            <p className=" animate-lePeek ">Free delivery for all orders over $140</p>
           </div>
         </div>
       </div>      

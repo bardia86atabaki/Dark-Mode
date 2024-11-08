@@ -5,6 +5,13 @@ function Search() {
   const [product, setProduct] = useState(null);
   const [error, setError] = useState(null);
 
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    inputRef.current.focus();
+  }, []);
+  
+
   const inputRef = useRef();
 
   useEffect(() => {
